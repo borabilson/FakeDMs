@@ -10,5 +10,6 @@
   "main": "index.js",
   "vendetta": {
     "icon": "ic_message_24px"
-  }
+  },
+  "hash": "e705c648942bb6dba92df14303c06fd14ff5c34ca59ccdfde8ca55059f23c3e5"
 }
